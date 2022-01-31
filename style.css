@@ -1,0 +1,246 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: white;
+}
+
+.slack {
+    display: flex;
+}
+
+.slack_container {
+    background: #f6efe8;;
+}
+
+.slack_intro {
+    font-size: 55px;
+    background: #f6efe8;
+    border: 0px;
+    padding: 9px;
+}
+
+.slack_caption {
+    letter-spacing: 4px;
+    background: #f6efe8;
+    margin: 7px;
+    font-size: 13px;
+}
+
+.container_center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 7px;
+}
+
+.one_part{
+    background: white;
+    padding:50px;
+}
+
+.one_part_container_paragraph {
+    margin-bottom: 30px;
+}
+
+.one_part_container_paragraph_sub {
+    margin-top: 20px;
+    color: rgb(0, 73, 107);
+}
+
+.one_part_container {
+    background: white;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.video1_caption {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 60px;
+}
+
+.video1_caption-title {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.video1_caption-time {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.video2_caption {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 60px;
+}
+
+.video2_caption-title {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.video2_caption-time {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.video3_caption {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 60px;
+}
+
+.video3_caption-title {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.video3_caption-time {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.two_part_container_paragraph {
+    margin-bottom: 30px;
+}
+
+.two_part_container_paragraph_sub {
+    margin-top: 20px;
+    color: rgb(0, 73, 107);
+}
+
+.three_part_container {
+    
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.three_part_container_paragraph {
+    margin-bottom: 30px;
+}
+
+.three_part_container_paragraph_sub {
+    margin-top: 20px;
+    color: rgb(0, 73, 107);
+}
+
+.two_part_container {
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.two_part {
+    padding: 50px;
+    text-align: center;
+}
+
+.video4_caption {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 60px;
+}
+
+.video4_caption-title {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.video4_caption-time {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.video5_caption {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 60px;
+}
+
+.video5_caption-title {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.video5_caption-time {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.firts_steps {
+    background: #f6efe8;
+    padding:50px;
+}
+
+.firts_steps_container {
+    background: #f6efe8;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.number {
+    margin-left: 60px;
+}
+
+.number_tw {
+    margin-top: 20px;
+}
+
+.number_th {
+    margin-top: 20px;
+}
+
+.display_paragraph {
+    font-size: 23px;
+    margin-bottom: 15px;
+}
+
+.steps_item {
+    margin-top: 40px;
+}
+
+.steps {
+    margin: 0;
+    padding: 0;
+    margin-left: 60px;
+}
+
+.text_center {
+    text-align: center;
+    font-size: 35px;
+}
+
+.logo1 {
+    margin: 10px;
+}
+
+.logo2 {
+    margin: 10px;
+}
+
+.logo3 {
+    margin: 10px;
+}
+
+.logo4 {
+    margin: 10px;
+}
+
+.logo5 {
+    margin: 10px;
+}
+
+.logo6 {
+    margin: 10px;
+}
+
+.logo7 {
+    margin: 10px;
+}
+
